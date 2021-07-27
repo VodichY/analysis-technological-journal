@@ -1,0 +1,19 @@
+{
+  "name": "analysis-technological-journal",
+  "version": "1.0.0",
+  "description": "this application parss the technological log of the 1C platform and identifies weaknesses in runtime",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VodichY/analysis-technological-journal.git"
+  },
+  "author": "Yuri Vodich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VodichY/analysis-technological-journal/issues"
+  },
+  "homepage": "https://github.com/VodichY/analysis-technological-journal#readme"
+}
